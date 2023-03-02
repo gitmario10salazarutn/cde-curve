@@ -1,0 +1,8 @@
+
+-- Install librarys
+    pip install opencv-contrib-python
+    pip install dlib or pip install dlib_library/dlib-19.22.99-cp39-cp39-win_amd64.whl (One of the two librarys)
+    pip install Pillow
+    pip install imutils
+    pip install mediapipe
+    pip install face_recognition
